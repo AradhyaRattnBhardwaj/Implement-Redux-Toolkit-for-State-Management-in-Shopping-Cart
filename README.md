@@ -10,7 +10,7 @@ A simple shopping cart built with **React** and a **custom Redux-like state mana
 ## 🖼️ Output Preview
 
 ### /OUTPUT/OUTPUT 1.png
-![Output](OUTPUT/OUTPUT%201.png)
+![Description of image](https://github.com/ankit-156/Implement-Redux-Toolkit-for-State-Management-in-Shopping-Cart/blob/main/OUTPUT/OUTPUT%201.png)
 
 ---
 
